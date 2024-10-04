@@ -2,7 +2,7 @@
 
 ## [Visit Website Here..](https://healthcare-erp.dreel.co/)
 
-![Preview](Preview.png)
+## Project Overview
 
 Welcome to the **Healthcare ERP Software**, an integrated solution designed to streamline operations and enhance the efficiency of healthcare institutions. This software caters to various account types and provides comprehensive management of outpatient (OPD) and inpatient (IPD) registrations, updates, and deletions, along with robust stats and attendance management.
 
@@ -42,6 +42,10 @@ The software supports six distinct account types:
   - Track and manage vital statistics related to patient care, treatment outcomes, and hospital performance.
 - **Attendance Management**
   - Monitor and manage attendance records for hospital staff including doctors, nurses, and administrative personnel.
+
+## Previews
+
+![Preview](Preview.png)
 
 ## Technology Stack
 
